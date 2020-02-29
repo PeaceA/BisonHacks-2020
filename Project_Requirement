@@ -1,0 +1,83 @@
+Team Name: Sister Code 
+
+Team Members:
+Peace Aku
+Shegufta Tasneem
+Mahia Tasneem
+
+BridgeIt
+29th February 2020
+
+Introduction
+Crowdfunding websites such as Groupon, AngelList, Crowdfunder, etc. are websites that focus on and connect businesses to local investors who are looking for equity investments and future collaborations. BridgeIt is not just a crowdfunding website, but it also helps small businesses or start-ups with almost every kind of services that they might need such as funding, advising (legal, marketing, business strategies, cost allocation), financial analyzing (costs and revenues), connect to suppliers of raw materials and skilled workers who are looking for part-time jobs, and connect to office space or warehouse providers. All these preparatory activities take a lot of time to get done physically and one by one. Our website brings all of these services together to create a comprehensive platform so that young entrepreneurs can complete all of these tasks on the same platform within a short period of time, minimum costs and much more options. 
+GOALS & Objectives 
+Connect small-business owners to resources they need to be established and expand
+Connect investors to small-businesses or start-up owners for collaboration
+Make the path of small businesses to success easier and smoother, which will in-turn generate more employment 
+
+Specifications
+Business Model
+On one hand, there are small-businesses looking for technical and monetary support. And on the other hand, we have professionals and experienced individuals who are willing to offer their support and help these small-businesses flourish.
+	Our platform brings these two parties together and opens up an open platform for discussion and negotiations between these two parties. Our business model requires the users to pay a monthly subscription as they access a comprehensive platform that offers a variety of services to their aid. Other than that, our platform also demands and reserves the right to receive a certain percentage of the revenues earned by a small business every time one collaborates with a potential investor or establishes itself through our platform. Using this as our source of revenue, we plan to continuously upgrade our services to increase and expand it in regards to region, as well as service accessibility.
+
+Our website
+The services that we are going to provide will be completely based on a digital or online platform. Our users will be able to create accounts based on which end of the users they belong to. While Business owners who are seeking help will have one outline of their profile and dashboard, users of the other end, that is, the investors, advisors, analysts, suppliers, and landowners will have a different view of their profile and dashboard. 
+	Upon searching for our website, the first page that will appear to the users is the landing page where the users will be asked to enter their username and password to have access to their account. From there, the website will take them to their dashboard where the business owners will navigate their way to the specific sector or kind of assistance they are seeking. On the other hand, professionals will be able to find small-businesses in a categorized list that shows then what the businesses are looking for and at what scale.
+	Our website is built using the software development kit called Flutter, which is an open-source UI software development kit created by Google. It is used to develop applications for Android, iOS, Windows, Mac, Linux, Google Fuchsia and the web. We used it because it is an app SDK for building high-performance, high-fidelity apps for iOS, Android, and web (tech preview) from a single codebase. The code is written in Dart which is a the language flutter uses for client-optimized programming language for apps on multiple platforms.
+
+Impact
+Our website primarily focuses on how to develop and profitize small-businesses that have the potential to have a large impact on our community. Small-businesses and local entrepreneurs generate employment in areas and play a significant role in maintaining a healthy economy. As such, our services will ensure that these business entities have access to the factors needed for
+a successful launch and operation.  
+	Commercial banks are moving quickly in the direction of innovation because of the rise in the number of fintech companies. Banks in the UK and the US are assumed to lose approximately 1.7 million jobs in the next decade. Through our platform, financial institutions will be introduced to various fintech companies that they can later collaborate with. According to the SBE Office of Advocacy, Small businesses accounted for 61.8% of net new jobs from the first quarter of 1993 until the third quarter of 2016. 
+Our users
+On one end, we have our small-businesses who are thriving and looking for the specific support they need to grow and become profitable. This platform will be beneficial for them because it simplifies some significant beginning steps of their businesses and makes it a much quicker and easier process.
+	On the other end, we have investors, advisors, analysts, suppliers, and office-space renters. These professionals are the resources that we offer to the small-business owners. While our platform works as a connecting point for these two parties, the professionals also have the opportunity to gain some benefits through their services. These benefits include monetary gains as well as more exposure to real life scenarios. Through direct messaging on our websites, entrepreneurs will be able to offer and implement their own deals with these professionals. The professionals will be researched-on and pre-qualified by us before being officially included in the system. 
+	Investors can opt for two kinds of investment in these businesses - equity investment, and investment in the form of debt/ loan. While equity funding or investing requires the small businesses to return a certain amount of their revenue to the investors as their return on investment, debt/ loan investments would not require such a return. Rather, it would be a risk that the investor might be willing to take. 
+	Advisors and analysts can also charge a certain amount of money in exchange for their professional intake. Their past experience in different fields of business will be valuable to the small-business owners and it can also be a potential source of revenue for the advisors and analysts to have a second source of revenue.
+The suppliers of raw materials and other soft or transferable skills as well as office-space or warehouse renters may also appropriately charge the small businesses based on what services it requires. They will be able to directly connect with consumers and middlemen who will bring their products to the markets. 
+	In case the small businesses fail to establish or earn the profit needed to pay off the charges for the services, the investors will have other options or alternatives at hand such as a buyout. It will be the liability of the businesses to pay back the investment-return while our responsibility would be to connect these people together as a networking platform. 
+
+Industry Analysis
+Although we do not have any direct competitors in the market who provide services like our platform does, there are certain websites that connect start-up businesses to specific factors or areas of business such as - 
+Crowdfunding websites: Indiegogo, Republic, SeedInvest, Kiva, GoFundMe, CircleUp
+Startups with advisors: Clarity, CoFoundersLab, GatherX
+Startups with accounting services: Xero
+Startups with suppliers or wholesalers: Global Sources, AliExpress, Alibaba
+These websites and apps provide similar services that the professionals on our website offer, but in a more scattered and separate ways. Therefore, in the service-oriented industry, we bring together these services to ensure all the resources necessary for start-up business to be successful in the long run.
+
+SWOT Analysis
+Strengths: 
+The website is not only AI based. It connects startups with humans with real life past experience. Professionals on our website can offer specific strategies and advice based on that specific case of business challenge.
+It is a one-stop platform with all the resources under one umbrella. 
+While AI and other websites only offer a frame or guideline on what to do, professionals on our website will be able to assist the business owners hands-on with real time situations.
+
+Weaknesses: 
+It is a time consuming process to implement all the services and categories that we plan to input on our website. It will take a substantial amount of time to develop the website and make it familiar to the users. 
+
+Opportunities: 
+Build apps based on the services provided
+Add more services as the website expands to make professionals from other backgrounds involved. 
+Increase the range of locations where our website will be operated in and include professionals from a wider location base.
+
+Threats: 
+Websites that are not exactly like our website, yet directly compete with our website such as Gale, a website that offers links to investors for funding, a step by step guide on how to form a business plan, solve challenges and what strategies can be implemented. 
+Individuals may still prefer banks and other financial institutions for financial advising, business strategies, and for funding and loans.
+
+Competitive Advantage
+There is no denying that start-ups cannot kick start their business without direct help from banks and other financial institutions. Loans from banks and other financial institutions can be difficult for start-up companies to obtain. Especially, when banks aren’t able to see the vision or have an interest in the business plan or company.
+Although there have been some established websites over the years who provide services that are parts and components of what our platform consists of, our platform brings all of these factors together and helps the users find exactly what they are looking for or what they need help with within a few clicks. Our platform will be able to have a direct impact on the development of small-businesses because we organize and maintain the smaller but equally significant aspects of the establishment of the business by bringing the professionals and the entrepreneurs together.
+Marketing
+Our target audience is rising entrepreneurs who are working on or interested in the expansion and growth of their company. For our website to reach small business owners across all industries and backgrounds, we plan to use social media platforms such as Facebook and Instagram to let people know about this all-inclusive website for new business professionals. Over 1 billion people use Instagram per month and thus, it will be a great outlet to use to reach the audience. On Instagram, business pages are able to promote themselves, which allows their posts to appear on other Instagrammers’ timelines. Instagram has its own advertising-strategy on how promotional posts reach different timelines. So with this strategy in mind, the goal is that our posts will appear on the timelines of young entrepreneurs that follow executives from different companies and other famous entrepreneurs. Along with Instagram, Facebook  also serves as an excellent form of advertisement. Through these platforms, we will be able to include people from all generations into the span of our audience and also encourage innovation in them. 
+
+Financials
+The main source of revenue for our website will be the monthly subscriptions that the users will pay. The website will offer a 30-day free trial to new users before they create an account with us. After utilizing the facilities and opportunities provided by the website for a month, the users can decide if they have been substantially benefited by it and if they want to further build networks through it. Given the range of services that are provided through our platform, for our monthly subscription, we plan to charge $25 per month for every user, both business owners and professionals. 
+According to Fundera, there are 30.2 million small businesses in this country. Again, according to SmallBusinessStatistics, each month, an average of 543,000 new businesses are started among which, 50% survive 5 years or more. Moreover, almost 50% of small businesses are operated from home. Given these statistics, it can be logically assumed that most of these start-ups will be interested in the service that we provide through a website. A large network of investors and professionals is opened up for these new business owners. Under these circumstances, even if only a third of these new start-ups create an account with us, it still brings 181,000 users to our website every year. Therefore, we can expect to earn $4,525,000 within the first one to three years. 
+	Next, one of the most important advantages we have is our low-cost strategy. Our website will be built by the initiators and thus, our main expense will be that incurred for advertising. As we have selected Facebook and Instagram for advertising, we consider our expenses based on Cost per click. The average CPC for Facebook Ads in the e-commerce industry is $0.51. Given that, it can be expected that our expense would be an average of $200 to $800 on Facebook ads per month and an estimate of $8,400 a year. As our website continues to expand, we will have more skilled web developers and employees working with us to make this website successful and maintain its effectiveness. On average and based on the range of skills that the employees bring, they will be paid between $45,000 - $50,000 per year. This would create more sources of expense for our website. A projection of how our revenues and expenses is expected to look like in the next five years is given below - 
+
+
+	
+After carefully considering these financials, it can be conceived that the service oriented website that we have planned to launch will be profitable for us in the long run. 
+
+
+Conclusion
+Our services through this platform will be an amazing way to bring small-business owners together in one network and also provide them with all the necessary resources that they need to kick-start their business. These small businesses have the potential to significantly influence the overall economy. Our website directly aligns with the missions and visions of a service-oriented company and also generate profit through its subscriptions. With this target audience and market in mind, BridgeIt will continue to bring every small to large factor together for a successful entrepreneurial engagement within all industries. 
