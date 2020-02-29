@@ -10,21 +10,12 @@
 </head>
 
 <body>
-  <script src="https://www.gstatic.com/firebasejs/7.5.0/firebase-app.js"></script>
-  <script src="https://www.gstatic.com/firebasejs/7.5.0/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.4.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.4.0/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.4.0/firebase-database.js"></script>\
   <!-- <script src="https://www.gstatic.com/firebasejs/6.6.0/firebase-database.js"></script> -->
 
-
-  <!-- This script installs service_worker.js to provide PWA functionality to
-       application. For more information, see:
-       https://developers.google.com/web/fundamentals/primers/service-workers -->
   <script>
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', function () {
-        navigator.serviceWorker.register('/flutter_service_worker.js');
-      });
-    }
-
     //Our Firebase configuration
     var firebaseConfig = {
       apiKey: "AIzaSyCs2TIOD6_S8hJOrGmqF4uVeQmPFr7dBVQ",
