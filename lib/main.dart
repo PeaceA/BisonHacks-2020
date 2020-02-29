@@ -1,4 +1,5 @@
-import 'package:bridge_it/layout.dart';
+import 'package:bridge_it/auth_service.dart';
+import 'package:bridge_it/dashboard.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
@@ -24,9 +25,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Dashboard',
-      theme: ThemeData(primarySwatch: Colors.green),
-      home: MyHomePage(),
+      home: AuthService().handleAuth()
     );
   }
 }
+
+
+

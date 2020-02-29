@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "bisonhacks2020-d81d9",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
